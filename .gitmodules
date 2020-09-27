@@ -1,3 +1,0 @@
-[submodule "hassio-access-point"]
-	path = hassio-access-point
-	url = https://github.com/mattlongman/hassio-access-point
